@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fatemehfarajirad
-- 👀 I’m interested in UI/UX, SEO 
-- 🌱 I’m currently learning Paython
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in UI/UX
+- 🌱 I’m currently learning Working on my porfolio
+- 💞️ I’m looking to web design job
 - 📫 How to reach me fatemeh.rad92@gmail.com
 
 <!---
