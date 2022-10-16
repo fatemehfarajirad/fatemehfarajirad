@@ -2,7 +2,7 @@
 - 👀 I’m interested in UI/UX
 - 🌱 I’m currently studying Master of Management Information System
 - 💞️ I’m looking to web design job
-- 📫 How to reach me fatemeh.rad92@gmail.com
+- 📫 How to reach me farajirad.f@gmail.com
 
 <!---
 fatemehfarajirad/fatemehfarajirad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
