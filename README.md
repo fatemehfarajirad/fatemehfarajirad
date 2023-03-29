@@ -1,8 +1,8 @@
 -  Hi, I’m @fatemehfarajirad
 -  I’m interested in UI/UX
 -  I’m currently studying Master of Management Information System
--  I'm have experienced working with HTML, CSS, Bootstrap, SEmanric UI, JavaScript, Figma
--  I’m looking to web design job
+-  I'm have experienced working with HTML, CSS, Bootstrap, Semanric UI, JavaScript, Figma
+-  I’m looking to web developer job
 -  How to reach me farajirad.f@gmail.com
 
 <!---
