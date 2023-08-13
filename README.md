@@ -3,7 +3,7 @@
 -  I’m currently studying Master of Management Information System
 -  I have experience working with JavaScript, Bootstrap, Semantic UI, Figma
 -  I have been studying Typescript, React, and Three.js to improve my knowledge
--  I’m looking for a Front-end developer job
+-  I’m looking for a Front-end Developer job
 -  How to reach me farajirad.f@gmail.com
 
 <!---
