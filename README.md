@@ -1,9 +1,9 @@
 -  Hi, I’m @fatemehfarajirad
--  I’m interested in Front-end Developing
--  I’m currently studying Master of Management Information System
+-  I’m interested in programming
+-  I hold a Master of Management Information System degree
 -  I have experience working with JavaScript, Bootstrap, Semantic UI, Figma
 -  I have been studying Typescript, React, and Three.js to improve my knowledge
--  I’m looking for a Front-end Developer job
+-  I’m looking for a job
 -  How to reach me farajirad.f@gmail.com
 
 <!---
